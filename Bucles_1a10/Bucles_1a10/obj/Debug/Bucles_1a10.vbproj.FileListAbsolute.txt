@@ -1,0 +1,11 @@
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\bin\Debug\Bucles_1a10.exe
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\bin\Debug\Bucles_1a10.pdb
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\bin\Debug\Bucles_1a10.xml
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.vbprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.Form1.resources
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.Resources.resources
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.vbproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.exe
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.xml
+C:\Proyectos Visual Studio\Bucles_1a10\Bucles_1a10\obj\Debug\Bucles_1a10.pdb
